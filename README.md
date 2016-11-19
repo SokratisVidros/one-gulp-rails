@@ -1,7 +1,7 @@
 # one-gulp-rails
 Rails 5 API with Gulp powered asset pipeline
 
-This repo combines the most comprehensive and intuitive backend stack one of the most popular frontend automation tools. Feel free to fork and customize it with your own Rails setup and relevant Gulp tasks.
+This repo combines the most comprehensive and intuitive backend stack with a powerful anc hackable frontend automation tool. Feel free to fork and customize it with your own Rails setup and relevant Gulp tasks.
 
 ## Features
 - Lean Rails 5 API backend stack
@@ -96,6 +96,8 @@ gulp e2e
 - Rate limiting and request throttling
 - Frontend unit testing framework
 - Iconfont & SVG automations
+
+***Special thanks to [VigetLabs](https://github.com/vigetlabs) for the original idea***
 
 ### License
 MIT
